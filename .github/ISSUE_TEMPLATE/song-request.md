@@ -16,3 +16,7 @@ New Song Title:
 
 ## Lyrics
 Provide the edited lyrics if you're creative enough (may be edited to make it fit)!
+
+```
+Delete and add lyrics here
+```
